@@ -15,7 +15,8 @@ console.log(typeof(answer));
 
 //Инкремент и дикремент
 let incr =10,
-    decr = 10;
+    decr = 10,
+    sr = 15;
 incr++;     //11
 decr--;     //9
 console.log(incr);
